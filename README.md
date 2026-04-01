@@ -1,2 +1,1 @@
-# kerala2026
-A small web application
+Simple survey application.
